@@ -1,5 +1,5 @@
 node {
-
+    // v1
 	checkout scm
 
 	stage('Build Base Auth application') {
